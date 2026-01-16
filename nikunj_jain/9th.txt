@@ -1,0 +1,20 @@
+//understanding hyperledger fabric
+
+//1
+hyperledger fabric is a most widely use private blockchain framework.as this help to 
+build a tampor proof database sytem which has a restricted access to work upon which means 
+a selected group of participants can only see it or edit it.
+As on public blockchain like bitcoin,ethereum transcation are safe and secure but they are 
+open to whole world like everyone can see it.
+
+//2
+organization should use it as
+*they cann't project their all data to the world like client details , their project info 
+or the ideas they are working on.
+*it builds trust between an organization and client that their data is tamper proof.
+
+//3
+*we can make a client management system ,in which we can store thier project details ,also 
+we can store the minutes of all meeting ,transcation details.
+*we can use it in a e-commerce platform that which consits of that a product is bought by
+ who ,when,where,at what price .

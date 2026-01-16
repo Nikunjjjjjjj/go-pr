@@ -1,0 +1,13 @@
+//1
+MSP :authencates the certificate is original or not, or we can say it authenticates request 
+is commong from valid source or not.
+
+Smart Contract: consits of all our functionality of how and what to de have to with our data .
+
+ledger layer: it consits of all data that is being pushed to our chain or data to be pushed .
+
+Application/Api layer: this consits of all the endpoints
+
+//2
+authencates the certificate is original or not, or we can say it authenticates request 
+is commong from valid source or not.certificate is made 
